@@ -1,0 +1,530 @@
+﻿
+Beetle	Are Beetles insects?	Yes	easy	hard	S08_set1_a8
+Beetle	Can Beetles be found in polar regions?	No	easy	hard	S08_set1_a8
+Beetle	Can Beetles be found in polar regions?	No	easy	easy	S08_set1_a8
+Beetle	Do Beetles antennae function primarily as organs of smell?	Yes	easy	easy	S08_set1_a8
+Beetle	What are the three sections of a beetle?	the head, the thorax, and the abdomen	medium	medium	S08_set1_a8
+Beetle	What are the three sections of a beetle?	The head, the thorax, and the abdomen	medium	medium	S08_set1_a8
+Beetle	Which defense mechanism uses colour or shape to deceive potential enemies?	mimicry	medium	easy	S08_set1_a8
+Beetle	Which defense mechanism uses colour or shape to deceive potential enemies?	Mimicry	medium	medium	S08_set1_a8
+Beetle	Which type of Beetle is a pest of potato plants?	Colorado potato Beetle	medium	easy	S08_set1_a8
+Beetle	Which type of Beetle is a pest of potato plants?	Colorado potato Beetle	medium	medium	S08_set1_a8
+Beetle	How can Beetle larvae be differentiated from other insect larvae?	their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body	hard	medium	S08_set1_a8
+Beetle	How can Beetle larvae be differentiated from other insect larvae?	By their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body	hard	medium	S08_set1_a8
+Beetle	What do Beetles eat?	Some are generalists, eating both plants and animals. Other Beetles are highly specialised in their diet.	hard	hard	S08_set1_a8
+Beetle	What do Beetles eat?	They often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates	hard	hard	S08_set1_a8
+Beetle	What are the similarities between Beetles and grasshoppers?	mouthparts	hard	medium	S08_set1_a8
+Beetle	What are the similarities between Beetles and grasshoppers?	Beetles have mouthparts similar to those of grasshoppers	hard	hard	S08_set1_a8
+Beetle	Are certain species of Beetles considered pests?	Yes	easy	easy	S08_set1_a8
+Beetle	Are certain species of Beetles considered pests?	yes	easy	easy	S08_set1_a8
+Beetle	Is a Beetle's general anatomy uniform?	Yes	easy	medium	S08_set1_a8
+Beetle	Is a Beetle's general anatomy uniform?	yes	easy	easy	S08_set1_a8
+Beetle	Are Beetles endopterygotes?	yes	easy	easy	S08_set1_a8
+Beetle	Are Beetles endopterygotes?	yes	easy	easy	S08_set1_a8
+Beetle	How many species of Beetles are there?	350,000	medium	medium	S08_set1_a8
+Beetle	How many species of Beetles are there?	about 350,000	medium	medium	S08_set1_a8
+Beetle	When are sperm cells transferred to the female?	during pairing	medium	hard	S08_set1_a8
+Beetle	When are sperm cells transferred to the female?	During pairing	medium	medium	S08_set1_a8
+Beetle	What is the study of Beetles called?	coleopterology	medium	medium	S08_set1_a8
+Beetle	What is the study of Beetles called?	coleopterology	medium	medium	S08_set1_a8
+Beetle	Is it possible that there are more than 350,000 species of Beetles?	yes	hard	hard	S08_set1_a8
+Beetle	Is it possible that there are more than 350,000 species of Beetles?	yes	hard	hard	S08_set1_a8
+Beetle	Is the Adephaga suborder larger than the Polyphaga suborder?	no	hard	hard	S08_set1_a8
+Beetle	Is the Adephaga suborder larger than the Polyphaga suborder?	yes	hard	hard	S08_set1_a8
+Beetle	Do carrion Beetles eat dung?	no	hard	medium	S08_set1_a8
+Beetle	Do carrion Beetles eat dung?	no	hard	hard	S08_set1_a8
+Beetle	What are prey of various animals including birds and mammals?	Beetles.	NULL	easy	S08_set1_a8
+Beetle	What was given by Aristotle for the hardened shield like forewings?	The name "Coleoptera".	NULL	easy	S08_set1_a8
+Beetle	Who or what vary greatly in form within the coleoptera?	Antennae.	NULL	easy	S08_set1_a8
+Beetle	Are many Beetles territorial?	Yes.	NULL	easy	S08_set1_a8
+Beetle	Are Beetles endopterygotes with complete metamorphosis?	Yes.	NULL	easy	S08_set1_a8
+Beetle	Oxygen is what?	One kind of gas obtained via a tracheal system.	NULL	too hard	S08_set1_a8
+Beetle	Is there a thriving industry in the collection of Beetle specimens for amateur and professional collectors ?	Yes.	NULL	easy	S08_set1_a8
+Beetle	Have coleopterists formed organisations to facilitate the study of Beetles ?	Yes.	NULL	easy	S08_set1_a8
+Beetle	Is the study of Beetles called coleopterology , and its practitioners are coleopterists ?	Yes.	NULL	medium	S08_set1_a8
+Beetle	May a single female lay from several dozen to several thousand eggs during her lifetime ?	Yes.	NULL	easy	S08_set1_a8
+Beetle	Can Beetles be found in almost all habitats?	Yes.	NULL	easy	S08_set1_a8
+Beetle	What happened on plants and fungi?	They are food to Beetles.	NULL	hard	S08_set1_a8
+Duck	Are Ducks in the Arctic Northern Hemisphere migratory?	Some are	easy	medium	S08_set1_a10
+Duck	Are Ducks in the Arctic Northern Hemisphere migratory?	yes	easy	easy	S08_set1_a10
+Duck	Is a drake a male?	Yes	easy	medium	S08_set1_a10
+Duck	Is a drake a male?	yes	easy	easy	S08_set1_a10
+Duck	Do all Ducks "quack"?	No	easy	medium	S08_set1_a10
+Duck	Do all Ducks "quack"?	no	easy	easy	S08_set1_a10
+Duck	What is the name of a specialized species of Duck adapted to catch large fish?	the smew	medium	medium	S08_set1_a10
+Duck	What animal attracts the most humor and silliness?	The Duck	medium	medium	S08_set1_a10
+Duck	What animal attracts the most humor and silliness?	the Duck	medium	medium	S08_set1_a10
+Duck	What is an economic use of a Duck?	Meat	medium	medium	S08_set1_a10
+Duck	What is an economic use of a Duck?	being farmed for their meat	medium	medium	S08_set1_a10
+Duck	Who is Daffy Duck?	A silly cartoon character	hard	hard	S08_set1_a10
+Duck	Who is Daffy Duck?	a silly cartoon character	hard	medium	S08_set1_a10
+Duck	What makes it more difficult for a diving Duck to fly?	They are heavier	hard	hard	S08_set1_a10
+Duck	What makes it more difficult for a diving Duck to fly?	they are heavier	hard	hard	S08_set1_a10
+Duck	What are the reasons for hunting wild Ducks?	Meat, eggs, and feathers	hard	too hard	S08_set1_a10
+Duck	Do Ducks forage underwater?	yes	easy	easy	S08_set1_a10
+Duck	Do Ducks forage underwater?	Diving Ducks and sea Ducks forage underwater	easy	hard	S08_set1_a10
+Duck	Do all Ducks "quack"?	no	easy	medium	S08_set1_a10
+Duck	Do all Ducks "quack"?	No	easy	easy	S08_set1_a10
+Duck	Is foie gras often made from Ducks?	yes	easy	easy	S08_set1_a10
+Duck	Is foie gras often made from Ducks?	Yes	easy	easy	S08_set1_a10
+Duck	What economic uses to Ducks have?	They are farmed for their meat, eggs and feathers. They are also kept and bred by aviculturists and often displayed in zoos.	medium	medium	S08_set1_a10
+Duck	What economic uses to Ducks have?	They can be farmed for meat, eggs, and feathers	medium	hard	S08_set1_a10
+Duck	What kind of Ducks feed on land?	Dabbling Ducks	medium	easy	S08_set1_a10
+Duck	What kind of Ducks feed on land?	Dabbling Ducks feed on land	medium	medium	S08_set1_a10
+Duck	What unrelated water birds are Ducks sometimes confused with?	loons or divers, grebes, gallinules, and coots	medium	easy	S08_set1_a10
+Duck	What unrelated water birds are Ducks sometimes confused with?	loons or divers, grebes, gallinules, and coots	medium	medium	S08_set1_a10
+Duck	What does the word Duck mean?	It is the common name for a number of species in the Anatidae family of birds.	hard	hard	S08_set1_a10
+Duck	What does the word Duck mean?	to bend down low as if to get under something	hard	hard	S08_set1_a10
+Duck	What are some common predators of Ducks?	Pike, crocodilians, herons, hawks and eagles.	hard	hard	S08_set1_a10
+Duck	What are some common predators of Ducks?	pike, crocodilians, and other aquatic hunters	hard	hard	S08_set1_a10
+Duck	How does a Mallard's tongue work?	It's tongue is a flat plate, and on the tongue's back end is a short liftable flap with about 18 short spikes for pushing struggling prey and other food down its throat	hard	hard	S08_set1_a10
+Duck	How does a Mallard's tongue work?	It uses short spikes to push struggling prey and other food down its throat	hard	hard	S08_set1_a10
+Duck	Are diving Ducks heavier tha dabbling Ducks?	Yes	easy	easy	S08_set1_a10
+Duck	Are diving Ducks heavier tha dabbling Ducks?	Yes	easy	easy	S08_set1_a10
+Duck	Are adult Ducks fast fliers?	Yes	easy	easy	S08_set1_a10
+Duck	Are adult Ducks fast fliers?	Yes	easy	easy	S08_set1_a10
+Duck	Are Ducks an accepted presence in some populated areas?	Yes	easy	easy	S08_set1_a10
+Duck	Are Ducks an accepted presence in some populated areas?	Yes	easy	easy	S08_set1_a10
+Duck	What types of unrelated water birds with similar forms are Ducks sometimes confused with?	loons or divers, grebes, gallinules, and coots	medium	medium	S08_set1_a10
+Duck	What types of unrelated water birds with similar forms are Ducks sometimes confused with?	loons or divers, grebes, gallinules, and coots	medium	medium	S08_set1_a10
+Duck	Why are Ducklings particularly vulnerable?	Their inability to fly.	medium	medium	S08_set1_a10
+Duck	Why are Ducklings particularly vulnerable?	their inability to fly makes them easy prey	medium	medium	S08_set1_a10
+Duck	What are some economic uses for Duck?	Meat,eggs,feathers	medium	medium	S08_set1_a10
+Duck	What are some economic uses for Duck?	being farmed for their meat, eggs, feathers, (particularly their down)	medium	medium	S08_set1_a10
+Duck	What allows a Duck to filter water out of the side of their beaks and keep food inside?	Tiny rows of plates called lamellae	hard	hard	S08_set1_a10
+Duck	What allows a Duck to filter water out of the side of their beaks and keep food inside?	tiny rows of plates called lamellae like a whale's baleen	hard	hard	S08_set1_a10
+Duck	What expression is part of a conceptual framework for testing computer systems?	Quacks like a Duck	hard	hard	S08_set1_a10
+Duck	What expression is part of a conceptual framework for testing computer systems?	Quacks like a Duck	hard	hard	S08_set1_a10
+Duck	Where did the expression "a sitting Duck" come from?	In many areas, wild Duckof various species (including Ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.	hard	hard	S08_set1_a10
+Duck	Where did the expression "a sitting Duck" come from?	In many areas, wild Ducks of various species (including Ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.	hard	hard	S08_set1_a10
+Elephant	Are Elephants the largest land animals alive today?	yes	easy	easy	S08_set1_a5
+Elephant	Are Elephants the largest land animals alive today?	yes	easy	easy	S08_set1_a5
+Elephant	Can an Elephant kill a rhinoceros?	yes	easy	hard	S08_set1_a5
+Elephant	Can an Elephant kill a rhinoceros?	yes	easy	easy	S08_set1_a5
+Elephant	Are Elephants good swimmers?	yes	easy	easy	S08_set1_a5
+Elephant	Are Elephants good swimmers?	yes	easy	easy	S08_set1_a5
+Elephant	How many living species of African Elephants are there?	2	medium	hard	S08_set1_a5
+Elephant	How many living species of African Elephants are there?	The African Elephant genus contains two (or, arguably, three) living species.	medium	medium	S08_set1_a5
+Elephant	How long may Elephants live?	70 years	medium	medium	S08_set1_a5
+Elephant	How long may Elephants live?	As long as 70 years, sometimes longer.	medium	medium	S08_set1_a5
+Elephant	Why does the phrase 'Elephants never forget' have no metaphorical meaning?	it refers literally to Elephants supposedly having an excellent memory	medium	hard	S08_set1_a5
+Elephant	Why does the phrase 'Elephants never forget' have no metaphorical meaning?	Because it refers literally to Elephants supposedly having an excellent memory.	medium	medium	S08_set1_a5
+Elephant	How many living species of Asian Elephants are there?	1	hard	hard	S08_set1_a5
+Elephant	How many living species of Asian Elephants are there?	one	hard	medium	S08_set1_a5
+Elephant	How much do Elephants weight at birth?	120 kilograms	hard	medium	S08_set1_a5
+Elephant	How much do Elephants weight at birth?	At birth it is common for an Elephant calf to weigh 120 kilograms (265 lb).	hard	medium	S08_set1_a5
+Elephant	What did Aristotle say about Elephants?	the beast which pasS08_seth all others in wit and mind	hard	hard	S08_set1_a5
+Elephant	What did Aristotle say about Elephants?	Aristotle once said the Elephant was "the beast which pasS08_seth all others in wit and mind."	hard	medium	S08_set1_a5
+Elephant	Are Elephant populations in West Africa generally small and fragmented?	yes	easy	easy	S08_set1_a5
+Elephant	Are Elephant populations in West Africa generally small and fragmented?	Yes	easy	easy	S08_set1_a5
+Elephant	Is the Asian Elephant larger than the African?	no	easy	easy	S08_set1_a5
+Elephant	Is the Asian Elephant larger than the African?	Sometimes	easy	too hard	S08_set1_a5
+Elephant	Is an Elephant's skin tough?	yes	easy	easy	S08_set1_a5
+Elephant	Is an Elephant's skin tough?	Yes	easy	easy	S08_set1_a5
+Elephant	How do Elephants communicate over long distances?	by producing and receiving low frequency sound	medium	medium	S08_set1_a5
+Elephant	How do Elephants communicate over long distances?	By producing and receiving low-frequency sound (infrasound)	medium	medium	S08_set1_a5
+Elephant	When do African Elephants lie down?	when they are sick or wounded	medium	medium	S08_set1_a5
+Elephant	How long is the Elephant's gestation period?	22 months	medium	medium	S08_set1_a5
+Elephant	How long is the Elephant's gestation period?	22 months	medium	medium	S08_set1_a5
+Elephant	How many species of African Elephants have been proposed?	three	hard	hard	S08_set1_a5
+Elephant	How many species of African Elephants have been proposed?	three	hard	hard	S08_set1_a5
+Elephant	What are the Elephant's ears important for?	temperature regulation	hard	medium	S08_set1_a5
+Elephant	What are the Elephant's ears important for?	temperature regulation	hard	hard	S08_set1_a5
+Elephant	What land animal has the largest brain?	Elephant	hard	medium	S08_set1_a5
+Elephant	What land animal has the largest brain?	The Elephant	hard	hard	S08_set1_a5
+Elephant	Are Elephants mammals?	yes	easy	easy	S08_set1_a5
+Elephant	Are Elephants mammals?	Yes	easy	easy	S08_set1_a5
+Elephant	Have Elephants been used as working animals?	yes	easy	easy	S08_set1_a5
+Elephant	Have Elephants been used as working animals?	Yes	easy	easy	S08_set1_a5
+Elephant	Do they prefer forested areas?	Yes	easy	easy	S08_set1_a5
+Elephant	Do they prefer forested areas?	Yes	easy	easy	S08_set1_a5
+Elephant	What is the world population of Asian Elephants?	60000	medium	medium	S08_set1_a5
+Elephant	What is the world population of Asian Elephants?	The world population of Asian Elephants – also called Indian Elephants or Elephas maximus – is estimated to be around 60,000	medium	medium	S08_set1_a5
+Elephant	What part of an Elephant is very important for temperature regulation?	Ears	medium	medium	S08_set1_a5
+Elephant	What part of an Elephant is very important for temperature regulation?	The large flapping ears of an Elephant are also very important for temperature regulation.	medium	medium	S08_set1_a5
+Elephant	Where was the largest Elephant ever recorded shot?	Angola	medium	medium	S08_set1_a5
+Elephant	Where was the largest Elephant ever recorded shot?	The largest Elephant ever recorded was shot in Angola in 1956.	medium	medium	S08_set1_a5
+Elephant	Is an Asian Elephant smaller than an African Elephant?	yes	hard	hard	S08_set1_a5
+Elephant	Is an Asian Elephant smaller than an African Elephant?	Yes	hard	easy	S08_set1_a5
+Elephant	What land animal is larger than an Elephant?	None	hard	hard	S08_set1_a5
+Elephant	What land animal is larger than an Elephant?	None, the Elephant is the largest land animal.	hard	hard	S08_set1_a5
+Elephant	Has tusklessness become a rare abnormality?	No	hard	hard	S08_set1_a5
+Elephant	Has tusklessness become a rare abnormality?	No, tusklessness has become a widespread hereditary trait. 	hard	hard	S08_set1_a5
+Gray_Wolf	Does the Gray Wolf share an ancestry with the domestic dog?	Yes	easy	too easy	S08_set1_a6
+Gray_Wolf	Does the Gray Wolf share an ancestry with the domestic dog?	Yes.	easy	easy	S08_set1_a6
+Gray_Wolf	Do wolf pups tend to have darker fur than adults?	Yes	easy	too easy	S08_set1_a6
+Gray_Wolf	Do wolf pups tend to have darker fur than adults?	Yes, They do tend to have darker furs	easy	hard	S08_set1_a6
+Gray_Wolf	Do wolves leave their pack?	Yes	easy	medium	S08_set1_a6
+Gray_Wolf	Do wolves leave their pack?	They leave their birth pack when they reach sexual maturity	easy	medium	S08_set1_a6
+Gray_Wolf	What kinds of coats do wolves have?	bulky coats with two layers	medium	medium	S08_set1_a6
+Gray_Wolf	What kinds of coats do wolves have?	Tough guard hairs that repel water and dirt, and a dense, water-resistant layer	medium	hard	S08_set1_a6
+Gray_Wolf	Where do wolves have scent glands?	Helping the woldf to effectively navigate over large expanses while concurrently keeping others informed of its whereabouts.	medium	medium	S08_set1_a6
+Gray_Wolf	Where do wolves have scent glands?	between a wolf's toes	medium	medium	S08_set1_a6
+Gray_Wolf	How much do wolves weigh?	typically varies between 32 and 62 kilograms	medium	medium	S08_set1_a6
+Gray_Wolf	How much do wolves weigh?	between 32 and 68 kilograms 	medium	easy	S08_set1_a6
+Gray_Wolf	Why do wolves howl?	Howling helps pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great distances. Howling also helps to call pack members to a specific location. Howling can also serve as a declaration of territory, as shown in a dominant wolf&apos;s tendency to respond to a human imitation of a "rival" wolf in an area the wolf considers its own. 	hard	hard	S08_set1_a6
+Gray_Wolf	Why do wolves howl?	To pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great distances	hard	too hard	S08_set1_a6
+Gray_Wolf	What is surplus killing?	Surplus killing is defined as the killing of several prey animals too numerous to eat at one sitting.	hard	medium	S08_set1_a6
+Gray_Wolf	What is surplus killing?	the killing of several prey animals too numerous to eat at one sitting	hard	easy	S08_set1_a6
+Gray_Wolf	Are Gray Wolves native to North America?	Yes	hard	easy	S08_set1_a6
+Gray_Wolf	Are Gray Wolves native to North America?	No. Current theory suggests that it's from Eurasia	hard	hard	S08_set1_a6
+Gray_Wolf	Is the Gray Wolf a mammal?	Yes	easy	easy	S08_set1_a6
+Gray_Wolf	Is the Gray Wolf a mammal?	Yes	easy	easy	S08_set1_a6
+Gray_Wolf	Are a wolf's teeth its main weapons?	Yes	easy	easy	S08_set1_a6
+Gray_Wolf	Are a wolf's teeth its main weapons?	Yes	easy	easy	S08_set1_a6
+Gray_Wolf	Are wolves built for stamina?	Yes	easy	easy	S08_set1_a6
+Gray_Wolf	Are wolves built for stamina?	Yes	easy	easy	S08_set1_a6
+Gray_Wolf	Where is the largest gray wolf population thought to be found?	Kazakhstan	medium	hard	S08_set1_a6
+Gray_Wolf	Where is the largest gray wolf population thought to be found?	Kazakhstan	medium	medium	S08_set1_a6
+Gray_Wolf	To what genus does the gray wolf belong?	Canis	medium	medium	S08_set1_a6
+Gray_Wolf	To what genus does the gray wolf belong?	Canis	medium	medium	S08_set1_a6
+Gray_Wolf	When do wolves molt?	Late Spring or Early Summer	medium	medium	S08_set1_a6
+Gray_Wolf	When do wolves molt?	late spring or early summer	medium	medium	S08_set1_a6
+Gray_Wolf	Why is it beneficial for alpha males and females to forcefully prevent other wolves from mating?	A pack can only suppport one littler per year	hard	hard	S08_set1_a6
+Gray_Wolf	Why is it beneficial for alpha males and females to forcefully prevent other wolves from mating?	The pack tension rises as each mature wolf feels urged to mate	hard	too hard	S08_set1_a6
+Gray_Wolf	What type of tools do biologists use to capture wolves for tagging?	Darting and Foot hold traps.	hard	hard	S08_set1_a6
+Gray_Wolf	What type of tools do biologists use to capture wolves for tagging?	Darting and foot hold traps	hard	hard	S08_set1_a6
+Gray_Wolf	Forward, erect ears and slightly bristle hackles are a sign of what in wolves?	Dominance	hard	hard	S08_set1_a6
+Gray_Wolf	Forward, erect ears and slightly bristle hackles are a sign of what in wolves?	Dominance	hard	hard	S08_set1_a6
+Kangaroo	Is a Kangaroo a reptile?	no	easy	easy	S08_set1_a1
+Kangaroo	Is a Kangaroo a reptile?	No	easy	easy	S08_set1_a1
+Kangaroo	Is a Kangaroo on the Australian coat of arms?	yes	easy	easy	S08_set1_a1
+Kangaroo	Is a Kangaroo on the Australian coat of arms?	Yes	easy	medium	S08_set1_a1
+Kangaroo	Was James Cook the first to record the name "Kangooroo?"	yes	easy	medium	S08_set1_a1
+Kangaroo	Was James Cook the first to record the name "Kangooroo?"	Yes	easy	medium	S08_set1_a1
+Kangaroo	What is a collective noun for Kangaroos?	mob, troop, or court	medium	medium	S08_set1_a1
+Kangaroo	What is a collective noun for Kangaroos?	Mob, troop, or court	medium	medium	S08_set1_a1
+Kangaroo	Where do joeys complete postnatal development?	marsupium	medium	medium	S08_set1_a1
+Kangaroo	Where do joeys complete postnatal development?	A pouch called a marsupium	medium	medium	S08_set1_a1
+Kangaroo	What do Kangaroos use for "crawl-walking?"	its hind feet	hard	medium	S08_set1_a1
+Kangaroo	What do Kangaroos use for "crawl-walking?"	Their hind feet and their tails	hard	hard	S08_set1_a1
+Kangaroo	Why do Kangaroos have a wide bite?	The two sides of the lower jaw are not joined together and the lower incisors are farther apart.	hard	hard	S08_set1_a1
+Kangaroo	Why do Kangaroos have a wide bite?	Because of grazing	hard	hard	S08_set1_a1
+Kangaroo	What is responsible for converting the hydrogen byproduct of fermentation into acetate?	bacteria	hard	hard	S08_set1_a1
+Kangaroo	What is responsible for converting the hydrogen byproduct of fermentation into acetate?	The digestive system of a Kangaroo	hard	too hard	S08_set1_a1
+Kangaroo	Are wild Kangaroos shot for meat?	yes	easy	easy	S08_set1_a1
+Kangaroo	Are wild Kangaroos shot for meat?	Yes	easy	easy	S08_set1_a1
+Kangaroo	Have Kangaroos fared well since European S08_settlement?	yes	easy	easy	S08_set1_a1
+Kangaroo	Have Kangaroos fared well since European S08_settlement?	Yes	easy	easy	S08_set1_a1
+Kangaroo	Do Kangaroos have many natural predators?	no	easy	easy	S08_set1_a1
+Kangaroo	Do Kangaroos have many natural predators?	No	easy	easy	S08_set1_a1
+Kangaroo	What is the average life expectancy of a Kangaroo?	4.6 years	medium	medium	S08_set1_a1
+Kangaroo	What is the average life expectancy of a Kangaroo?	about 4.6 years	medium	medium	S08_set1_a1
+Kangaroo	When did the first official report of Kangaroo blindness take place?	1994	medium	medium	S08_set1_a1
+Kangaroo	When did the first official report of Kangaroo blindness take place?	1994	medium	medium	S08_set1_a1
+Kangaroo	What are vehicles that frequent isolated roads often fitted with?	roo bars	medium	medium	S08_set1_a1
+Kangaroo	What are vehicles that frequent isolated roads often fitted with?	"roo bars"	medium	medium	S08_set1_a1
+Kangaroo	Do Kangaroos eat plants?	yes	hard	hard	S08_set1_a1
+Kangaroo	Do Kangaroos eat plants?	Yes	hard	too hard	S08_set1_a1
+Kangaroo	What are some extinct predators of the Kangaroo?	Thylacine, Marsupial Lion, Maagalania, and Wonambi	hard	hard	S08_set1_a1
+Kangaroo	What are some extinct predators of the Kangaroo?	The Thylacine	hard	hard	S08_set1_a1
+Kangaroo	Is a Kangaroo a Marsupial?	NULL	easy	NULL	S08_set1_a1
+Kangaroo	Is a Kangaroo a Marsupial?	Yes	easy	easy	S08_set1_a1
+Kangaroo	Is the Kangaroo an herbivour?	NULL	easy	NULL	S08_set1_a1
+Kangaroo	Is the Kangaroo an herbivour?	Yes	easy	medium	S08_set1_a1
+Kangaroo	Are Kangaroos Shy?	NULL	easy	NULL	S08_set1_a1
+Kangaroo	Are Kangaroos Shy?	Yes	easy	easy	S08_set1_a1
+Kangaroo	What method of locomotion do Kangaroos Use?	NULL	medium	NULL	S08_set1_a1
+Kangaroo	What method of locomotion do Kangaroos Use?	hopping	medium	medium	S08_set1_a1
+Kangaroo	What is the average life expectancy of a Kangaroo?	NULL	medium	NULL	S08_set1_a1
+Kangaroo	What is the average life expectancy of a Kangaroo?	4 to 6 years	medium	hard	S08_set1_a1
+Kangaroo	What is a collective noun for a Kangaroo?	NULL	medium	NULL	S08_set1_a1
+Kangaroo	What is a collective noun for a Kangaroo?	a mob, troop, or court	medium	medium	S08_set1_a1
+Kangaroo	What is a roo?	NULL	hard	NULL	S08_set1_a1
+Kangaroo	What is a roo?	a Kangaroo	hard	medium	S08_set1_a1
+Kangaroo	What is used to protect a vehicale from a Kangaroo?	NULL	hard	NULL	S08_set1_a1
+Kangaroo	What is used to protect a vehicale from a Kangaroo?	roo bars	hard	hard	S08_set1_a1
+Kangaroo	What method is used by Kangaroos to travel?	NULL	hard	NULL	S08_set1_a1
+Kangaroo	What method is used by Kangaroos to travel?	hopping	hard	medium	S08_set1_a1
+Kangaroo	Who asked a nearby local what the creatures were called?	Captain James Cook and naturalist Sir Joseph Banks	NULL	hard	S08_set1_a1
+Kangaroo	What are four species that are commonly referred to as Kangaroos?	The Red Kangaroo, The Eastern Grey Kangaroo, The Western Grey Kangaroo, and The Antilopine Kangaroo	NULL	too hard	S08_set1_a1
+Kangaroo	Are Kangaroos and wallabies adept swimmers?	yes	NULL	easy	S08_set1_a1
+Kangaroo	Are Kangaroos farmed to any extent?	No.	NULL	easy	S08_set1_a1
+Kangaroo	Who also discovered that less than three percent of Kangaroos exposed to the virus developed blindness ?	Veterinarians	NULL	medium	S08_set1_a1
+Kangaroo	Different species of Kangaroos eat what?	different diets	NULL	medium	S08_set1_a1
+Kangaroo	Have Kangaroos dazzled by headlights or startled by engine noise been known to leap in front of cars ?	yes	NULL	easy	S08_set1_a1
+Kangaroo	Is a collision with a vehicle capable of killing a Kangaroo ?	yes	NULL	easy	S08_set1_a1
+Kangaroo	Was the game of Marn grook played using a ball made from Kangaroo by the Kurnai people ?	yes	NULL	easy	S08_set1_a1
+Kangaroo	Have Kangaroos large , powerful hind legs , large feet adapted for leaping , a long muscular tail for balance , and a small head ?	yes	NULL	easy	S08_set1_a1
+Kangaroo	Is a Kangaroo a marsupial from the family macropodidae -LRB- macropods , meaning (`` ` large foot ('' ' -RRB-?	yes	NULL	easy	S08_set1_a1
+Kangaroo	What kinds of changes have larger Kangaroos adapted much better to?	Changes wrought to the Australian landscape by humans.	NULL	medium	S08_set1_a1
+Kangaroo	Have larger Kangaroos adapted much better to changes?	yes	NULL	easy	S08_set1_a1
+Leopard	Is the Leopard smaller than the other members of Panthera?	yes	easy	easy	S08_set1_a2
+Leopard	Is the Leopard smaller than the other members of Panthera?	Yes	easy	easy	S08_set1_a2
+Leopard	Is a Leopard larger and less lanky than a cheetah?	yes	easy	easy	S08_set1_a2
+Leopard	Is a Leopard larger and less lanky than a cheetah?	Yes	easy	easy	S08_set1_a2
+Leopard	Are large pythons potential prey for Leopards?	yes	easy	easy	S08_set1_a2
+Leopard	Are large pythons potential prey for Leopards?	Yes	easy	easy	S08_set1_a2
+Leopard	What may a Leopard be mistaken for?	A cheetah or a jaguar	medium	medium	S08_set1_a2
+Leopard	What may a Leopard be mistaken for?	A cheetah or a jaguar	medium	medium	S08_set1_a2
+Leopard	What is a hybrid animal resulting from a union between a Leopard and a puma?	a pumapard	medium	medium	S08_set1_a2
+Leopard	What is a hybrid animal resulting from a union between a Leopard and a puma?	A pumapard	medium	medium	S08_set1_a2
+Leopard	Where do Leopards often hide their kills?	in dense vegetation	medium	medium	S08_set1_a2
+Leopard	Where do Leopards often hide their kills?	in dense vegetation or in trees	medium	medium	S08_set1_a2
+Leopard	How did early naturalists distinguish between Leopards and panthers?	by the length of their tails	hard	hard	S08_set1_a2
+Leopard	How did early naturalists distinguish between Leopards and panthers?	By the length of the tail, panthers having longer tails than Leopards	hard	hard	S08_set1_a2
+Leopard	What are dark Leopards known as colloquially?	Black Panthers	hard	hard	S08_set1_a2
+Leopard	What are dark Leopards known as colloquially?	black panthers	hard	too hard	S08_set1_a2
+Leopard	What shape are a Leopard's black roS08_settes in East Africa?	circular	hard	hard	S08_set1_a2
+Leopard	What shape are a Leopard's black roS08_settes in East Africa?	circular	hard	hard	S08_set1_a2
+Leopard	Is the Leopard an Old World mammal?	yes	easy	easy	S08_set1_a2
+Leopard	Is the Leopard an Old World mammal?	yes	easy	easy	S08_set1_a2
+Leopard	Is the Leopard an Old World mammal?	.	easy	too easy	S08_set1_a2
+Leopard	Is the Leopard of the Felidae family?	yes	easy	easy	S08_set1_a2
+Leopard	Is the Leopard of the Felidae family?	yes	easy	easy	S08_set1_a2
+Leopard	Is the Leopard of the Felidae family?	NULL	easy	NULL	S08_set1_a2
+Leopard	Is the Leopard one of the four 'big cats'?	yes	easy	easy	S08_set1_a2
+Leopard	Is the Leopard one of the four 'big cats'?	yes	easy	medium	S08_set1_a2
+Leopard	Is the Leopard one of the four 'big cats'?	NULL	easy	NULL	S08_set1_a2
+Leopard	Where is the Leopard distributed?	southern Eurasia and Africa	medium	medium	S08_set1_a2
+Leopard	Where is the Leopard distributed?	southern Eurasia and Africa, from Korea to South Africa and Spain	medium	medium	S08_set1_a2
+Leopard	Where is the Leopard distributed?	NULL	medium	NULL	S08_set1_a2
+Leopard	How long is a Leopard's tail?	60 to 110cm	medium	medium	S08_set1_a2
+Leopard	How long is a Leopard's tail?	60-110cm	medium	medium	S08_set1_a2
+Leopard	How long is a Leopard's tail?	NULL	medium	NULL	S08_set1_a2
+Leopard	How much does a Leopard weigh?	Males are considerably larger than females and weigh 37 to 90 kg compared to 28 to 60 kg for females. 	medium	medium	S08_set1_a2
+Leopard	How much does a Leopard weigh?	(because of ambiguity) - 28-90kg 	medium	too hard	S08_set1_a2
+Leopard	How much does a Leopard weigh?	NULL	medium	NULL	S08_set1_a2
+Leopard	Does a male Leopard weigh more than a female Leopard?	yes	hard	medium	S08_set1_a2
+Leopard	Does a male Leopard weigh more than a female Leopard?	yes	hard	hard	S08_set1_a2
+Leopard	Does a male Leopard weigh more than a female Leopard?	NULL	hard	NULL	S08_set1_a2
+Leopard	What is the difference between Leopards and cheetahs?	The Leopard has roS08_settes rather than cheetah's simple spots and the Leopard is larger and less lanky than the cheetah.	hard	hard	S08_set1_a2
+Leopard	What is the difference between Leopards and cheetahs?	The Leopard has roS08_settes rather than cheetah's simple spots, but they lack internal spots, unlike the jaguar. The Leopard is larger and less lanky than the cheetah but smaller than the jaguar.	hard	hard	S08_set1_a2
+Leopard	What is the difference between Leopards and cheetahs?	NULL	hard	NULL	S08_set1_a2
+Leopard	How does the distribution size of the Leopard compare to the distribution of other wild cats?	As of 1996, the Leopard had the largest distribution of any wild cat, although populations before and since have shown a declining trend and are fragmented outside of subsaharan Africa.	hard	hard	S08_set1_a2
+Leopard	How does the distribution size of the Leopard compare to the distribution of other wild cats?	the Leopard had the largest distribution of any wild cat.	hard	hard	S08_set1_a2
+Leopard	How does the distribution size of the Leopard compare to the distribution of other wild cats?	NULL	hard	NULL	S08_set1_a2
+Leopard	What resembles that of the similarly-sized cougar in the Americas?	The Leopard's ecological role	NULL	medium	S08_set1_a2
+Leopard	What was one of the many species described in Linnaeus's 18th-century work, Systema Naturae?	Felis pardus	NULL	medium	S08_set1_a2
+Leopard	What sort of cats are solitary?	Leopards	NULL	hard	S08_set1_a2
+Leopard	Are Leopards circular?	No	NULL	easy	S08_set1_a2
+Leopard	Is the Leopard solitary?	Yes	NULL	easy	S08_set1_a2
+Leopard	What centred in Sierra?	The Leopard men	NULL	medium	S08_set1_a2
+Leopard	Felis pardus was what?	One of the many species described in Linnaeus's 18th-century work, Systema Naturae	NULL	medium	S08_set1_a2
+Leopard	Has the New Zealand Rugby League featured the Otahuhu Leopards and then the Tamaki Leopards ?	Yes	NULL	easy	S08_set1_a2
+Leopard	Were the Leopard men a West African secret society who practised cannibalism ?	Yes	NULL	easy	S08_set1_a2
+Leopard	Was the Leopard tank a German designed tank which entered service in 1965 ?	Yes	NULL	easy	S08_set1_a2
+Leopard	Is the black color heritable and caused by only one recessive gene locus ?	Yes	NULL	easy	S08_set1_a2
+Leopard	Is the Leopard -LRB- panthera pardus -RRB- an old world mammal of the felidae family and the smallest of the four (`` ` big cats ('' ' of the genus panthera , along with the tiger , lion , and jaguar?	Yes	NULL	easy	S08_set1_a2
+Leopard	Can a panther be any of several species of large felid?	Yes	NULL	easy	S08_set1_a2
+Leopard	Is the Leopard an agile and graceful predator?	Yes	NULL	easy	S08_set1_a2
+Otter	Do sea Otters have long muscular tails?	no	easy	medium	S08_set1_a7
+Otter	Do sea Otters have long muscular tails?	No	easy	medium	S08_set1_a7
+Otter	Can Otters survive in cold water?	yes	easy	medium	S08_set1_a7
+Otter	Can Otters survive in cold water?	Yes	easy	medium	S08_set1_a7
+Otter	Does the giant Otter inhabit South Africa?	no	easy	easy	S08_set1_a7
+Otter	Does the giant Otter inhabit South Africa?	No	easy	easy	S08_set1_a7
+Otter	How many species of Otter are there?	13	medium	easy	S08_set1_a7
+Otter	How many species of Otter are there?	13	medium	medium	S08_set1_a7
+Otter	What do river Otters eat?	a variety of fish and shellfish, as well as small land mammals and birds	medium	easy	S08_set1_a7
+Otter	What do river Otters eat?	a variety of fish and shellfish, as well as small land mammals and birds	medium	medium	S08_set1_a7
+Otter	How much do sea Otters weigh?	30 kg (about 65 pounds)	medium	easy	S08_set1_a7
+Otter	How much do sea Otters weigh?	30 kg (about 65 pounds)	medium	medium	S08_set1_a7
+Otter	How do sea Otters insulate themselves?	a layer of air trapped in their fur(!)	hard	hard	S08_set1_a7
+Otter	How do sea Otters insulate themselves?	As with other species of Otter, they rely on a layer of air trapped in their fur, which they keep topped up by blowing into the fur from their mouths.	hard	hard	S08_set1_a7
+Otter	Why are sea Otters nearly extinct?	They've been hunted for their fur	hard	hard	S08_set1_a7
+Otter	Why are sea Otters nearly extinct?	Sea Otters have some 200,000 hairs per square cm of skin, a rich fur for which humans hunted them	hard	hard	S08_set1_a7
+Otter	What is one of the challenges of re-establishing a population of Eurasian Otters in the UK?	roadkill deaths	hard	hard	S08_set1_a7
+Otter	What is one of the challenges of re-establishing a population of Eurasian Otters in the UK?	Roadkill deaths have become one of the significant threats to the success of their re-establishment. 	hard	hard	S08_set1_a7
+Otter	Is Otter a kind of mammal?	yes	easy	easy	S08_set1_a7
+Otter	Is Otter a kind of mammal?	Yes.	easy	easy	S08_set1_a7
+Otter	How many species and genera does Otter have?	13 species and 7 genera	easy	easy	S08_set1_a7
+Otter	How many species and genera does Otter have?	13 species in 7 genera.	easy	medium	S08_set1_a7
+Otter	Do Otters live in water?	yes	easy	hard	S08_set1_a7
+Otter	Do Otters live in water?	Yes.	easy	easy	S08_set1_a7
+Otter	What do river Otters eat?	River Otters eat a variety of fish and shellfish, as well as small land mammals and birds. 	medium	easy	S08_set1_a7
+Otter	What do river Otters eat?	River Otters eat a variety of fish and shellfish, as well as small land mammals and birds.	medium	medium	S08_set1_a7
+Otter	Where do sea Otters live?	Sea Otters (Enhydra lutris) live along the Pacific coast of North America. 	medium	easy	S08_set1_a7
+Otter	Where do sea Otters live?	The sea Otter lives actually in the sea. 	medium	medium	S08_set1_a7
+Otter	Where does the word "Otter" derive from?	The word "Otter" derives from the Old English word otr, otor or oter. 	medium	easy	S08_set1_a7
+Otter	Where does the word "Otter" derive from?	The word "Otter" derives from the Old English word otr, otor or oter. This and cognate words in other Indo-European languages ultimately stem from a root which also gave rise to the English words "water", "wet" and "winter". 	medium	medium	S08_set1_a7
+Otter	Does Otter give birth or lay egg?	give birth	hard	too hard	S08_set1_a7
+Otter	What drives sea Otter almost to extinction?	Humans hunted them almost to extinction. 	hard	medium	S08_set1_a7
+Otter	What drives sea Otter almost to extinction?	Sea Otters have some 200,000 hairs per square cm of skin, a rich fur for which humans hunted them almost to extinction. 	hard	medium	S08_set1_a7
+Otter	Why Otters are considered as totem animals?	The time of year associated with this is also associated with the Aquarius sign of the Zodiac, through which the sun passes January 20-February 19. 	hard	hard	S08_set1_a7
+Otter	Do sea Otters live along the Pacific coast?	Yes	easy	easy	S08_set1_a7
+Otter	Do sea Otters live along the Pacific coast?	Yes	easy	easy	S08_set1_a7
+Otter	Are Otters totem animals?	Yes	easy	easy	S08_set1_a7
+Otter	Are Otters herbivores?	No	easy	easy	S08_set1_a7
+Otter	Are Otters herbivores?	No	easy	hard	S08_set1_a7
+Otter	What is the primary item in an Otter's diet?	Fish.	medium	medium	S08_set1_a7
+Otter	What is the primary item in an Otter's diet?	fish	medium	medium	S08_set1_a7
+Otter	What is an Otter's den called?	Holt	medium	medium	S08_set1_a7
+Otter	What is an Otter's den called?	holt	medium	medium	S08_set1_a7
+Otter	Why is the giant Otter becoming increasingly rare?	Poaching, habitat loss, and toxins in gold mining.  	medium	hard	S08_set1_a7
+Otter	Why is the giant Otter becoming increasingly rare?	poaching, habitat loss, and the use of mercury in illegal alluvial gold mining	medium	medium	S08_set1_a7
+Otter	How do Otters keep themselves warm without blubber?	A layer of air trapped in their fur.  	hard	hard	S08_set1_a7
+Otter	How do Otters keep themselves warm without blubber?	a layer of air trapped in their fur	hard	hard	S08_set1_a7
+Otter	How are Otters playful animals?	The slide down snowy slopes, apparently for sheer enjoyment.  	hard	hard	S08_set1_a7
+Otter	How are Otters playful animals?	They slide repeatedly down snowy slopes for sheer enjoyment.	hard	hard	S08_set1_a7
+Otter	What animals are related to Otters?	weasels, polecats, and badgers	hard	hard	S08_set1_a7
+Otter	What traps a layer of air, and keeps them dry and warm under water?	Long guard hair	NULL	medium	S08_set1_a7
+Otter	The collective noun romp is sometimes used for a group of what?	Otters	NULL	medium	S08_set1_a7
+Otter	Is it true that Otters eat a variety of fish?	yes	NULL	medium	S08_set1_a7
+Otter	Are Otters playful animals?	yes	NULL	easy	S08_set1_a7
+Otter	Are Otters very active?	yes	NULL	easy	S08_set1_a7
+Otter	Are male Otters dog-Otters?	yes	NULL	easy	S08_set1_a7
+Otter	An Otter 's den is what?	A holt	NULL	medium	S08_set1_a7
+Otter	Sea Otters eat what?	Shellfish and other invertebrates	NULL	medium	S08_set1_a7
+Otter	Is the myth of Otter 's Ransom the starting point of the Volsunga saga ?	yes	NULL	easy	S08_set1_a7
+Otter	Are Male Otters dog-Otters , females are bitches and babies are cubs or pups ?	yes	NULL	easy	S08_set1_a7
+Otter	Is an Otter 's den called a holt ?	yes	NULL	easy	S08_set1_a7
+Otter	Have most Otters fish as the primary item in their diet , supplemented by frogs , crayfish and crabs ?	yes	NULL	easy	S08_set1_a7
+Penguin	Do Penguins feed on krill?	yes	easy	easy	S08_set1_a3
+Penguin	Do Penguins feed on krill?	yes	easy	easy	S08_set1_a3
+Penguin	What is the largest living species of Penguin?	Emperor Penguin	easy	medium	S08_set1_a3
+Penguin	What is the largest living species of Penguin?	the Emperor Penguin (Aptenodytes forsteri)	easy	medium	S08_set1_a3
+Penguin	Do Penguins live almost exclusively in the Southern Hemisphere?	yes	easy	easy	S08_set1_a3
+Penguin	Do Penguins live almost exclusively in the Southern Hemisphere?	yes	easy	easy	S08_set1_a3
+Penguin	What is "tobogganing"?	when Penguins slide on their bellies across the snow	medium	hard	S08_set1_a3
+Penguin	What is "tobogganing"?	Tobogganing is when Penguins slide on their bellies across the snow.	medium	hard	S08_set1_a3
+Penguin	Why are Penguins countershaded?	for camouflage	medium	hard	S08_set1_a3
+Penguin	Why are Penguins countershaded?	for camouflage	medium	hard	S08_set1_a3
+Penguin	Are Penguins afraid of humans?	no	medium	medium	S08_set1_a3
+Penguin	Are Penguins afraid of humans?	no	medium	medium	S08_set1_a3
+Penguin	How much time to Penguins spend on land?	half of their life	hard	hard	S08_set1_a3
+Penguin	How much time to Penguins spend on land?	They spend half of their life on land.	hard	medium	S08_set1_a3
+Penguin	How many species of Penguins are there?	between 17 and 20 living species	hard	medium	S08_set1_a3
+Penguin	How many species of Penguins are there?	Penguin biodiversity varies between 17 and 20 living species, all in the subfamily Spheniscinae.	hard	hard	S08_set1_a3
+Penguin	How are Isabelline Penguins different from most Penguins?	they have brown rather than black plumage	hard	hard	S08_set1_a3
+Penguin	How are Isabelline Penguins different from most Penguins?	Because they are born with brown rather than black plumage.	hard	hard	S08_set1_a3
+Penguin	Are Penguins birds?	yes	easy	easy	S08_set1_a3
+Penguin	Are Penguins birds?	Yes	easy	easy	S08_set1_a3
+Penguin	Do Penguins have a better than average sense of hearing for birds?	yes	easy	easy	S08_set1_a3
+Penguin	Do Penguins have a better than average sense of hearing for birds?	No	easy	easy	S08_set1_a3
+Penguin	Are Penguins considered "higher waterbirds"?	yes	easy	easy	S08_set1_a3
+Penguin	Are Penguins considered "higher waterbirds"?	Yes	easy	easy	S08_set1_a3
+Penguin	What order do Penguins belong to?	Sphenisciformes	medium	medium	S08_set1_a3
+Penguin	What order do Penguins belong to?	Sphenisciformes	medium	medium	S08_set1_a3
+Penguin	What is the largest living species of Penguin?	Emperor Penguin	medium	medium	S08_set1_a3
+Penguin	What is the largest living species of Penguin?	Emperor	medium	medium	S08_set1_a3
+Penguin	How tall were the tallest prehistoric Penguins?	1.80 meters	medium	medium	S08_set1_a3
+Penguin	How tall were the tallest prehistoric Penguins?	as tall as an adult human	medium	hard	S08_set1_a3
+Penguin	What makes Penguins so agile in the water?	Their wings have become flippers	hard	hard	S08_set1_a3
+Penguin	What makes Penguins so agile in the water?	Smooth plumage preserves a layer of air, ensuring buoyancy, wings are flippers	hard	hard	S08_set1_a3
+Penguin	Why do Penguins "tobaggan"?	It conserves energy while moving quickly	hard	hard	S08_set1_a3
+Penguin	Why do Penguins "tobaggan"?	Conserves energy while moving quickly	hard	hard	S08_set1_a3
+Penguin	Who spend half of their life on land and half in the oceans?	Penguins	NULL	medium	S08_set1_a3
+Penguin	What is also the distance that Antarctic tourists are told to keep from Penguins?	3 meters	NULL	medium	S08_set1_a3
+Penguin	What have become flippers, useless for flight in the air?	Penguins' wings	NULL	medium	S08_set1_a3
+Penguin	What happens when mothers lose a chick?	They sometimes attempt to "steal" another chick.	NULL	medium	S08_set1_a3
+Penguin	Is it true that each Penguin gets a turn in the center?	Yes	NULL	easy	S08_set1_a3
+Penguin	Are all Penguins countershaded?	Yes	NULL	easy	S08_set1_a3
+Penguin	Are Penguins astonishingly agile?	In the water they are.	NULL	easy	S08_set1_a3
+Penguin	Are Penguins at risk?	Yes	NULL	easy	S08_set1_a3
+Penguin	Is it also possible that Penguin comes from the Latin pinguis , fat ?	Yes	NULL	easy	S08_set1_a3
+Penguin	Have Penguins an average sense of hearing for birds ?	Yes	NULL	easy	S08_set1_a3
+Penguin	Can larger Penguins dive deep in case of need ?	Yes	NULL	easy	S08_set1_a3
+Penguin	Is the smallest Penguin species the Little Blue Penguin -LRB- also known as the Fairy Penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2.2 lb -RRB- ?	Yes	NULL	easy	S08_set1_a3
+Penguin	Is it not even known whether the gigantic palaeeudyptines constitute a monophyletic lineage , or whether gigantism was evolved independently in a much restricted Palaeeudyptinae and the Anthropornithinae ?	It is not even known.	NULL	medium	S08_set1_a3
+Penguin	Is the largest living species the emperor Penguin -LRB- aptenodytes forsteri -RRB-?	Yes	NULL	easy	S08_set1_a3
+Penguin	Is the smallest Penguin species the little blue Penguin -LRB- also known as the fairy Penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2?	Yes	NULL	easy	S08_set1_a3
+Penguin	What happened in a region not quite 2000 km south of the equator 35 mya?	At least one giant Penguin.	NULL	medium	S08_set1_a3
+Polar_Bear	Is polar bear a mammal?	Yes	easy	easy	S08_set1_a4
+Polar_Bear	Is polar bear a mammal?	Yes	easy	easy	S08_set1_a4
+Polar_Bear	Is polar bear a carnivore?	Yes	easy	easy	S08_set1_a4
+Polar_Bear	Is polar bear a carnivore?	Yes	easy	easy	S08_set1_a4
+Polar_Bear	What is largest polar bear on record?	2200 lb	medium	medium	S08_set1_a4
+Polar_Bear	What is largest polar bear on record?	A huge male, allegedly weighing 1002 kg (2200 lb) shot at Kotzebue Sound in northwestern Alaska in 1960.	medium	medium	S08_set1_a4
+Polar_Bear	What is polar bear's skin color?	white or cream	medium	easy	S08_set1_a4
+Polar_Bear	What is polar bear's skin color?	Black	medium	easy	S08_set1_a4
+Polar_Bear	How long is polar bear's guard hair?	5-15 cm	medium	medium	S08_set1_a4
+Polar_Bear	How long is polar bear's guard hair?	5-15 cm	medium	medium	S08_set1_a4
+Polar_Bear	What is cause of polar bear's skin diseases?	mites or other parasites	hard	medium	S08_set1_a4
+Polar_Bear	What is cause of polar bear's skin diseases?	Mites or other parasites	hard	medium	S08_set1_a4
+Polar_Bear	Why polar bear is a special species?	The World Conservation Union listed polar bears as a vulnerable species, one of three sub-categories of threatened status, in May 2006. Their latest estimate is that 7 out of 19 subpopulations are declining or already severely reduced.	hard	too hard	S08_set1_a4
+Polar_Bear	What do fossil and DNA evidence tell us?	The polar bear diverged from the brown bear about 200 thousand years ago.	hard	medium	S08_set1_a4
+Polar_Bear	What do fossil and DNA evidence tell us?	The polar bear diverged from the brown bear roughly 200 thousand years ago.	hard	medium	S08_set1_a4
+Polar_Bear	Does a polar bear live in the Arctic?	yes	easy	easy	S08_set1_a4
+Polar_Bear	Does a polar bear live in the Arctic?	Yes	easy	easy	S08_set1_a4
+Polar_Bear	Is a polar bear white in color?	yes	easy	medium	S08_set1_a4
+Polar_Bear	Is a polar bear white in color?	Yes	easy	easy	S08_set1_a4
+Polar_Bear	Is a polar bear at high risk of extinction?	yes	easy	easy	S08_set1_a4
+Polar_Bear	Is a polar bear at high risk of extinction?	Yes	easy	easy	S08_set1_a4
+Polar_Bear	How heavy is a male polar bear?	300-600 kg (660-1320 lb)	medium	medium	S08_set1_a4
+Polar_Bear	How heavy is a male polar bear?	Most adult males weigh 350-650 kg	medium	too hard	S08_set1_a4
+Polar_Bear	How heavy was the largest polar bear on record?	1002 kg (2200 lb) 	medium	medium	S08_set1_a4
+Polar_Bear	How heavy was the largest polar bear on record?	He allegedly weighed 1002 kg	medium	medium	S08_set1_a4
+Polar_Bear	What does a polar bear's fur provide?	It provides the animal with effective camouflage.	medium	medium	S08_set1_a4
+Polar_Bear	What does a polar bear's fur provide?	A polar bear's fur provides camouflage and insulation	medium	medium	S08_set1_a4
+Polar_Bear	Do female polar bears weight more than the male?	no	hard	medium	S08_set1_a4
+Polar_Bear	Do female polar bears weight more than the male?	No	hard	easy	S08_set1_a4
+Polar_Bear	How much weight do female polar bears gain during pregnancy?	They gain double their weight.	hard	medium	S08_set1_a4
+Polar_Bear	How much weight do female polar bears gain during pregnancy?	They double their weight during pregnancy	hard	medium	S08_set1_a4
+Polar_Bear	Can polar bears be seen under infrared photography?	Polar bears are nearly invisible under infrared photography.	hard	easy	S08_set1_a4
+Polar_Bear	Can polar bears be seen under infrared photography?	Only their breath and muzzles can be easily seen	hard	hard	S08_set1_a4
+Polar_Bear	What is actually black in color?	A polar bear's skin.	NULL	medium	S08_set1_a4
+Polar_Bear	What insulate it against the cold?	Its think blubber and fur.	NULL	medium	S08_set1_a4
+Polar_Bear	What includes a lengthy justification of why this species is listed as vulnerable?	Database entry.	NULL	medium	S08_set1_a4
+Polar_Bear	What do with greenpeace and the natural resources defense council have in common?	They filed lawsuits in California.	NULL	medium	S08_set1_a4
+Polar_Bear	Are studies insufficient evidence for global protection?	It is arguable.	NULL	medium	S08_set1_a4
+Polar_Bear	Are polar bears excellent swimmers?	yes	NULL	easy	S08_set1_a4
+Polar_Bear	A semi-aquatic marine mammal , the polar bear has what?	It has adapted for life on a combination of land, sea, and ice.	NULL	medium	S08_set1_a4
+Polar_Bear	Garbage is what?	Garbage is now recycled or transported to Thompson, Manitoba.	NULL	medium	S08_set1_a4
+Polar_Bear	The bears sometimes what?	They sometimes have problems with various skin diseases with dermatitis caused sometimes by mites or other parasites.	NULL	medium	S08_set1_a4
+Polar_Bear	Is the Polar Bear the mascot of Bowdoin college ?	yes	NULL	easy	S08_set1_a4
+Polar_Bear	Have thumbpolar bears been made both controversial and famous for their distinctive white fur and their habitat ?	yes	NULL	easy	S08_set1_a4
+Polar_Bear	Did Mitchell Taylor , the Nunavut Government Manager of Wildlife Research , not write a letter to the U.S. Fish and Wildlife Service arguing that local studies are insufficient evidence for global protection at this time ?	no	NULL	easy	S08_set1_a4
+Polar_Bear	Are Cubs born in December without awakening the mother ?	yes	NULL	easy	S08_set1_a4
+Turtle	Are Turtles ectothermic?	Yes	easy	easy	S08_set1_a9
+Turtle	Are Turtles ectothermic?	yes	easy	easy	S08_set1_a9
+Turtle	Does the mother care for the young?	No	easy	medium	S08_set1_a9
+Turtle	Does the mother care for the young?	no	easy	medium	S08_set1_a9
+Turtle	Are Turtles pets?	Yes	easy	medium	S08_set1_a9
+Turtle	Are Turtles pets?	yes	easy	easy	S08_set1_a9
+Turtle	What shape are the eggs of the larest species of Turtle?	Spherical	medium	medium	S08_set1_a9
+Turtle	What shape are the eggs of the larest species of Turtle?	spherical	medium	medium	S08_set1_a9
+Turtle	How often do Turtles breed?	Every few years or more	medium	medium	S08_set1_a9
+Turtle	What do all Turtles and tortoises breathe?	air	medium	easy	S08_set1_a9
+Turtle	What do all Turtles and tortoises breathe?	air	medium	medium	S08_set1_a9
+Turtle	How do Turtles reproduce?	They lay eggs	hard	too hard	S08_set1_a9
+Turtle	How do Turtles reproduce?	they lay eggs	hard	hard	S08_set1_a9
+Turtle	What has been discovered about Turtles organs?	They do not gradually break down or become less efficient over time	hard	hard	S08_set1_a9
+Turtle	What has been discovered about Turtles organs?	they do not break down	hard	hard	S08_set1_a9
+Turtle	What suborder of Turtle draws its head into its shell?	Pleurodira	hard	hard	S08_set1_a9
+Turtle	What suborder of Turtle draws its head into its shell?	Pleurodira	hard	hard	S08_set1_a9
+Turtle	Do sea Turtles lay eggs on dry sandy beaches?	Yes	easy	easy	S08_set1_a9
+Turtle	Do sea Turtles lay eggs on dry sandy beaches?	yes	easy	easy	S08_set1_a9
+Turtle	Are Pleurodira known as side-necked Turtles?	Yes	easy	easy	S08_set1_a9
+Turtle	Are Pleurodira known as side-necked Turtles?	yes	easy	easy	S08_set1_a9
+Turtle	Are Turtles a part of the Flying Spaghetti Monster?	*shrug*	easy	easy	S08_set1_a9
+Turtle	How many suborders are Turtles divided into?	Three.	medium	medium	S08_set1_a9
+Turtle	How many suborders are Turtles divided into?	three	medium	medium	S08_set1_a9
+Turtle	Name a Turtle popularly kept as a pet.	Russian Tortoises	medium	hard	S08_set1_a9
+Turtle	Name a Turtle popularly kept as a pet.	Russian Tortoises	medium	hard	S08_set1_a9
+Turtle	Name four related articles for the article on Turtles.	Triassic, Ernst Haeckel, Kunstformen der Natur, Animal	medium	medium	S08_set1_a9
+Turtle	Name four related articles for the article on Turtles.	Triassic, Ernst Haeckel, Kunstformen der Natur, Animal	medium	hard	S08_set1_a9
+Turtle	If a Turtle egg was kept warm, what would likely hatch?	A female Turtle.	hard	hard	S08_set1_a9
+Turtle	If a Turtle egg was kept warm, what would likely hatch?	A female Turtle	hard	too hard	S08_set1_a9
+Turtle	What do turles use to breathe in the water?	Papillae	hard	hard	S08_set1_a9
+Turtle	Why are side-necked Turtles called side-necked Turtles?	Because of the way they withdraw their heads into their shells.	hard	medium	S08_set1_a9
+Turtle	Why are side-necked Turtles called side-necked Turtles?	The way they withdraw their heads into their shells.	hard	hard	S08_set1_a9
+Turtle	Do Turtles lay eggs underwater?	No	easy	easy	S08_set1_a9
+Turtle	Do Turtles lay eggs underwater?	no	easy	easy	S08_set1_a9
+Turtle	Are Turtle eggs leathery and soft?	Yes	easy	easy	S08_set1_a9
+Turtle	Are Turtle eggs leathery and soft?	yes	easy	easy	S08_set1_a9
+Turtle	Are Turtles being examined for longevity genes?	Yes	easy	easy	S08_set1_a9
+Turtle	Are Turtles being examined for longevity genes?	yes	easy	easy	S08_set1_a9
+Turtle	What suborder of Turtles is extinct?	Paracryptodira	medium	medium	S08_set1_a9
+Turtle	What suborder of Turtles is extinct?	Paracryptodira	medium	medium	S08_set1_a9
+Turtle	What do Turtle eggs preared to eat consist mainly of?	Yolk	medium	medium	S08_set1_a9
+Turtle	Where do sea Turtles lay their eggs?	Holes Dug into the Mud or Sand	medium	medium	S08_set1_a9
+Turtle	Where do sea Turtles lay their eggs?	holes dug into mud or sand	medium	hard	S08_set1_a9
+Turtle	What is the smallest suborder of Turtles?	Pleurodira	hard	medium	S08_set1_a9
+Turtle	What is the smallest suborder of Turtles?	Pleurodira	hard	hard	S08_set1_a9
+Turtle	What are Turtle eggs covered in when they incubate?	Mud or Sand	hard	hard	S08_set1_a9
+Turtle	What are Turtle eggs covered in when they incubate?	mud or sand	hard	hard	S08_set1_a9
+Turtle	What type of creatures breathe air and don't lay eggs underwater?	Amniotes	hard	hard	S08_set1_a9
+Turtle	What type of creatures breathe air and don't lay eggs underwater?	amnoites	hard	medium	S08_set1_a9
+Turtle	What are deposited in holes dug into mud or sand?	eggs	NULL	easy	S08_set1_a9
+Turtle	What sort of Turtles are ectothermic?	all of them	NULL	medium	S08_set1_a9
+Turtle	Are Turtles ectothermic?	yes	NULL	easy	S08_set1_a9
+Turtle	Are the largest Turtles aquatic?	yes	NULL	easy	S08_set1_a9
+Turtle	Is aquatic respiration in Australian freshwater Turtles being studied?	yes	NULL	easy	S08_set1_a9
+Turtle	These projections , called papillae , have what?	a rich blood supply	NULL	medium	S08_set1_a9
+Turtle	The eggs of the largest species are what?	spherical	NULL	medium	S08_set1_a9
+Turtle	Has this inspired genetic researchers to begin examining the Turtle genome for longevity genes ?	yes	NULL	easy	S08_set1_a9
+Turtle	Can Turtles take many years to reach breeding age ?	yes	NULL	easy	S08_set1_a9
+Turtle	Are Immature sea Turtles not cared for by the adults ?	yes	NULL	medium	S08_set1_a9
+Turtle	Are the Pleurodira sometimes known as the side-necked Turtles , a reference to the way they withdraw their heads into their shells ?	yes	NULL	easy	S08_set1_a9
+Turtle	Does the Order Testudines not include both extant -LRB- living -RRB- and extinct species , the earliest known Turtles being from around 215 million years ago ?	yes	NULL	easy	S08_set1_a9
