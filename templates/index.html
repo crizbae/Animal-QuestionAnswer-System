@@ -98,6 +98,11 @@
             text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
             filter: drop-shadow(4px 4px 6px rgba(0, 0, 0, 0.5));
         }
+
+        .answer {
+            font-size: 1.25em;
+            margin-top: 2em;
+        }
     </style>
 </head>
 
@@ -105,6 +110,24 @@
     <canvas id="bubbleCanvas"></canvas>
 
     <h1 class="text-center bubble-text" id="title">Animal Q&A System</h1>
+    <p class="text-center bubble-text"><a href="https://www.kaggle.com/datasets/rtatman/questionanswer-dataset/"
+            target="_blank" style="color: white;">Dataset</a>
+    </p>
+
+    <form action="/" method="post">
+        <div class="form-group text-center">
+            <label for="questionInput">Enter your question:</label>
+            <input type="text" class="form-control" id="questionInput" name="question" placeholder="Enter question here"
+                style="width: 50%; margin: auto;">
+        </div>
+        <button type="submit" class="btn btn-primary" style="display: block; margin: auto;">Submit</button>
+    </form>
+
+    {% if answer %}
+    <div class="text-center answer">
+        <p><strong><u>Your answer is:</u></strong> {{ answer }}</p>
+    </div>
+    {% endif %}
 
     <div class="container mt-5">
         <div class="accordion" id="questionsAccordion">

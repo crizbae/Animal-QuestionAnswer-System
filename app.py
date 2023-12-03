@@ -1,8 +1,9 @@
-from flask import Flask, render_template
 import file
 from collections import defaultdict
 import json
 import os
+from flask import Flask, render_template, request
+
 
 app = Flask(__name__)
 
@@ -27,7 +28,13 @@ def home():
                         seen_questions[animal].add(question)
         with open(json_file, 'w') as f:
             json.dump(dict(questions), f)
-    return render_template('index.html', questions=dict(questions))
+
+    if request.method == 'POST':
+        question = request.form.get('question')
+        answer = file.find_answer(question)
+        return render_template('index.html', answer=answer, questions=dict(questions))
+    else:
+        return render_template('index.html', questions=dict(questions))
 
 if __name__ == '__main__':
     app.run(debug=True)
